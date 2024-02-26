@@ -1,0 +1,13 @@
+name: Aetheria
+version: '${project.version}'
+main: aidanhoang.aetheria.Aetheria
+api-version: 1.20
+commands:
+  item:
+    description: "Summon an Aetherian weapon. From Entity404 Himself."
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  start:
+    description: "Summon an Aetherian weapon. From Entity404 Himself."
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
